@@ -1,0 +1,6 @@
+
+AuthName "Member's Area"
+AuthUserFile C:/wamp64/www/.htpass
+#AuthGroupFile /dev/null
+AuthType Basic
+require valid-user
